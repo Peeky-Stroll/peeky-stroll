@@ -1,276 +1,297 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED HERO HEADER                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ══════════════ ANIMATED HEADER BANNER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,1B1B2F,3671C6&height=200&section=header&text=MAX%20VERSTAPPEN&fontSize=60&fontColor=FFD700&fontAlignY=38&animation=fadeIn&desc=33%20%7C%20Oracle%20Red%20Bull%20Racing&descColor=FFFFFF&descAlignY=58&descSize=20" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0d0000,50:7a0000,80:cc0000,100:ff1801&height=250&section=header&text=MAX%20VERSTAPPEN&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkling&stroke=ff1801&strokeWidth=2&desc=⚡%20ORACLE%20RED%20BULL%20RACING%20%C2%B7%20%231%20%C2%B7%204%C3%97%20WORLD%20CHAMPION%20⚡&descSize=16&descAlignY=68&descColor=ffd700" />
-
-<!-- F1 RACING STRIPE TRICOLOUR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ff1801&height=6" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffd700&height=3" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=3" />
+<!-- ══════════════ TYPING ANIMATION ══════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Formula1+Display+Bold&weight=900&size=28&duration=3000&pause=1000&color=E8002D&center=true&vCenter=true&width=700&lines=%F0%9F%8F%8E%EF%B8%8F+4x+FORMULA+1+WORLD+CHAMPION;%F0%9F%94%B4+ORACLE+RED+BULL+RACING+%23RB20;%F0%9F%8F%86+62+RACE+VICTORIES+%26+COUNTING;%E2%9A%A1+FASTEST+LAPS+%7C+FASTEST+DRIVER)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- CHAMPIONSHIP BADGES -->
-[![2021](https://img.shields.io/badge/🏆_2021-ABU%20DHABI-ff1801?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
-[![2022](https://img.shields.io/badge/🏆_2022-SUZUKA-ff1801?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
-[![2023](https://img.shields.io/badge/🏆_2023-QATAR%20★REC-ff1801?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
-[![2024](https://img.shields.io/badge/🏆_2024-LAS%20VEGAS-ff1801?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
+<!-- ══════════════ CHAMPIONSHIP BADGES ══════════════ -->
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%202021-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=1B1B2F&color=FFD700" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%202022-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=1B1B2F&color=FFD700" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%202023-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=1B1B2F&color=FFD700" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%202024-WORLD%20CHAMPION-FFD700?style=for-the-badge&labelColor=1B1B2F&color=FFD700" />
 
-<br/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=FF1801&center=true&vCenter=true&width=720&lines=🏎️+Fastest+Man+on+the+Grid;⚡+63%2B+Race+Wins+and+Counting...;🏆+4×+Formula+1+World+Champion;🔴+Oracle+Red+Bull+Racing+%231;🇳🇱+The+Dutch+Lion+of+Zandvoort;💛+575+Points+—+The+Record+That+Stands)](https://github.com/Peeky-Stroll)
+<br/><br/>
 
 </div>
 
 ---
 
-## 🏎️ THE DRIVER
+<!-- ══════════════ RED BULL CAR SHOWCASE ══════════════ -->
+<div align="center">
+
+## 🏎️ THE MACHINE — Oracle Red Bull Racing RB20
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Max_Verstappen_2024_RB20.jpg/1200px-Max_Verstappen_2024_RB20.jpg" width="80%" alt="Max Verstappen RB20" style="border-radius:12px;" />
+
+<br/>
+
+> *"To be the best, you must race with everything you have — no holding back, no excuses."*
+> **— Max Verstappen**
+
+</div>
+
+---
+
+<!-- ══════════════ DRIVER PROFILE CARD ══════════════ -->
+<div align="center">
+
+## 👤 DRIVER PROFILE
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center" width="50%">
 
-```
-╔═══════════════════════════════════════════════╗
-║  ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗  ║
-║  ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗ ║
-║  ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║ ║
-║  ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║ ║
-║  ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝ ║
-║   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝  ║
-╠═══════════════════════════════════════════════╣
-║  #1  MAX EMILIAN VERSTAPPEN                   ║
-║  🇳🇱  Hasselt, Belgium  ·  Dutch Driver       ║
-║  🎂  Born: September 30, 1997                 ║
-║  🏎️  Oracle Red Bull Racing                   ║
-║  🏁  F1 Debut: 2015 Australian GP (Age 17)   ║
-╠═══════════════════════════════════════════════╣
-║  "I JUST WANT TO WIN. THAT'S ALL."            ║
-╚═══════════════════════════════════════════════╝
-```
+### 🇳🇱 MAX EMILIAN VERSTAPPEN
+
+| STAT | VALUE |
+|:---|:---:|
+| 🎂 **Born** | September 30, 1997 |
+| 🌍 **Nationality** | Dutch 🇳🇱 / Belgian 🇧🇪 |
+| 🔢 **Car Number** | **#33** |
+| 🏎️ **Team** | Oracle Red Bull Racing |
+| 🏁 **Engine** | Honda RBPT |
+| 📅 **F1 Debut** | Australian GP 2015 |
 
 </td>
-<td width="45%" valign="top" align="center">
+<td align="center" width="50%">
 
-<img src="https://media.giphy.com/media/cLTMlkqqXLHCa9Jc4y/giphy.gif" width="280" alt="Max Verstappen Celebration" />
+### ⚡ QUICK STATS
 
-<br/>
-<sub><b>🏆 Max Verstappen — World Champion Celebration</b></sub>
+```
+┌─────────────────────────────────────┐
+│  🏆 Championships      :     4       │
+│  🥇 Race Wins          :    62       │
+│  🔝 Pole Positions     :    40       │
+│  ⚡ Fastest Laps       :    31       │
+│  🏁 Podiums            :   105       │
+│  📊 Points Scored      :  3,310+     │
+│  📅 Seasons            :    10       │
+└─────────────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## 📊 CAREER AT A GLANCE
-
-| 🏆 Championships | 🏁 Race Wins | 🥇 Pole Positions | 🥈 Podiums | ⚡ Fastest Laps |
-|:---:|:---:|:---:|:---:|:---:|
-| **4** | **63+** | **40+** | **110+** | **30+** |
-| 2021·22·23·24 | All-time great | Lightning qualifier | Relentless | Always pushing |
-
-<br/>
-
-![](https://img.shields.io/badge/Record_(2023)-19_Wins_of_22_Races-ff1801?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/Record_(2023)-575_Points-ffd700?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/Win_Rate_(2023)-86.4%25-cc0000?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/Youngest_Winner-18_Years_228_Days-ffffff?style=flat-square&labelColor=0a0a0a)
-
 </div>
 
 ---
 
+<!-- ══════════════ CHAMPIONSHIP TIMELINE ══════════════ -->
 <div align="center">
 
-## 🏆 CHAMPIONSHIP SEASONS
-
-| Season | Team | Car | Wins | Points | Clinched At |
-|:------:|------|-----|:----:|:------:|-------------|
-| 🥇 **2024** | Oracle Red Bull Racing | RB20 | 9 | **437** | 🇦🇪 Las Vegas GP |
-| 🥇 **2023** | Oracle Red Bull Racing | RB19 | ⭐ **19** | ⭐ **575** | 🇶🇦 Qatar GP |
-| 🥇 **2022** | Oracle Red Bull Racing | RB18 | 15 | **454** | 🇯🇵 Japanese GP |
-| 🥇 **2021** | Red Bull Racing Honda | RB16B | 10 | **395.5** | 🇦🇪 Abu Dhabi GP |
-
-⭐ = All-time F1 records
-
-</div>
-
----
-
-## 🌟 ICONIC MOMENTS
-
-<div align="center">
-
-### 🇦🇪 Abu Dhabi 2021 — The First Crown
-
-*The most dramatic championship decider in Formula 1 history*
-
-<img src="https://media.giphy.com/media/F2TZ9lSxPxZxhxTRD6/giphy.gif" width="500" alt="Max Verstappen Abu Dhabi 2021 Champion" />
-
-> *Last lap. Last corner. Under the Abu Dhabi floodlights — **MV33** overtook Lewis Hamilton and became Formula 1 World Champion. The Dutch Lion had conquered the world at 24 years old.*
-
----
-
-### 🏎️ Full Throttle — The Red Bull Era
-
-*Speed. Precision. Dominance.*
-
-<img src="https://media.giphy.com/media/Mn4i6v1sdKF61YOFth/giphy.gif" width="460" alt="Max Verstappen Red Bull Win" />
-
-> *From 2021 to 2024, the RB18 and RB19 were the most dominant cars in Formula 1 history — and Max Verstappen was the most dominant driver.*
-
-</div>
-
----
-
-## 🏁 RACING DNA
-
-```python
-# ════════════════════════════════════════════════════════════
-#  oracle_red_bull_racing.py  ·  Driver Profile: MAX #1
-# ════════════════════════════════════════════════════════════
-
-class MaxVerstappen:
-
-    name          = "Max Emilian Verstappen"
-    number        = 1                        # Formerly #33
-    nationality   = "🇳🇱 Dutch"
-    born          = "September 30, 1997 — Hasselt, Belgium"
-    team          = "Oracle Red Bull Racing"
-    engine        = "Honda RBPT"
-    headquarters  = "Milton Keynes, United Kingdom"
-
-    championships = [2021, 2022, 2023, 2024]  # Four. And counting.
-
-    records = {
-        "wins_single_season":    19,          # 2023 ★ ALL-TIME RECORD
-        "points_single_season":  575,         # 2023 ★ ALL-TIME RECORD
-        "win_rate_single_season": "86.4%",    # 2023 ★ ALL-TIME RECORD
-        "youngest_race_winner":  "18y 228d",
-        "youngest_f1_debutant":  "17y 166d",
-        "consecutive_titles":    4,
-    }
-
-    driving_style = [
-        "⚡ Aggressive late braking",
-        "🎯 Millimetre-perfect overtaking",
-        "🔥 Relentless one-lap qualifying pace",
-        "🧊 Ice-cold composure under pressure",
-        "🔄 Tyre management mastery",
-    ]
-
-    def race(self, circuit: str) -> str:
-        return f"🏆 P1 — {circuit}. Another one."
-
-    def quote(self) -> str:
-        return "I just want to win. That's all."
-
-    def __repr__(self):
-        wins = len([w for w in range(63)])  # and counting...
-        return f"MV1 | {len(self.championships)}× World Champion | {wins}+ wins"
-```
-
----
-
-<div align="center">
-
-## 🗺️ CIRCUIT DOMINANCE
+## 🏆 CHAMPIONSHIP HISTORY
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  CIRCUIT              WIN RATE                    STATUS    ║
-╠══════════════════════════════════════════════════════════════╣
-║  🇳🇱 Zandvoort        ████████████████████████████  UNBEATEN ║
-║  🇦🇹 Red Bull Ring    ████████████████████████░░░░  FORTRESS ║
-║  🇯🇵 Suzuka           ████████████████████░░░░░░░░  CLINICAL ║
-║  🇦🇪 Abu Dhabi        ████████████████████░░░░░░░░  ICONIC   ║
-║  🇧🇭 Bahrain          ████████████████░░░░░░░░░░░░  DOMINANT ║
-║  🇦🇿 Baku             ██████████████░░░░░░░░░░░░░░  POWERFUL ║
-║  🇲🇨 Monaco           █████████░░░░░░░░░░░░░░░░░░░  RISING   ║
-╚══════════════════════════════════════════════════════════════╝
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  2021 ◆ ABU DHABI  ►  CHAMPION  🏆  | 10 WINS | 395.5 PTS
+         🔥 One of the most dramatic title fights in F1 history
+
+  2022 ◆ JAPAN      ►  CHAMPION  🏆  | 15 WINS | 454 PTS
+         💥 Most wins in a single season (record broken next yr)
+
+  2023 ◆ JAPAN      ►  CHAMPION  🏆  | 19 WINS | 575 PTS
+         🚀 ALL-TIME RECORD — 19 wins in a single season
+
+  2024 ◆ LAS VEGAS  ►  CHAMPION  🏆  | 9 WINS  | 437 PTS
+         ⚡ Fourth title, youngest ever 4x World Champion
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
 ---
 
+<!-- ══════════════ RACE STATS VISUAL ══════════════ -->
 <div align="center">
 
-## 🇳🇱 THE ORANGE ARMY
+## 📊 CAREER PERFORMANCE STATS
 
-<img src="https://media.giphy.com/media/cLTMlkqqXLHCa9Jc4y/giphy.gif" width="380" alt="Orange Army Celebration" />
+<img src="https://github-readme-stats.vercel.app/api?username=Peeky-Stroll&show_icons=true&theme=dark&title_color=FFD700&icon_color=E8002D&text_color=FFFFFF&bg_color=0,1B1B2F,3671C6&border_color=FFD700&border_radius=12&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Peeky-Stroll&theme=dark&background=1B1B2F&border=FFD700&ring=E8002D&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&border_radius=12" width="48%" />
+
+</div>
+
+---
+
+<!-- ══════════════ RECORDS SECTION ══════════════ -->
+<div align="center">
+
+## ⚡ ALL-TIME RECORDS HELD
+
+<table>
+<tr>
+<td align="center">
+
+🏎️ **Most wins in a season**
+```
+19 Wins — 2023 Season
+```
+
+</td>
+<td align="center">
+
+🏆 **Youngest 4x Champion**
+```
+Age 27 — Las Vegas 2024
+```
+
+</td>
+<td align="center">
+
+💨 **Fastest ever**
+```
+Spa-Francorchamps Lap Record
+1:41.252
+```
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+📈 **Most pole-to-win**
+```
+40 Poles → 62 Wins
+Conversion: 64.5%
+```
+
+</td>
+<td align="center">
+
+🔴 **Longest winning streak**
+```
+10 Consecutive Wins
+2023 Season
+```
+
+</td>
+<td align="center">
+
+🌍 **Most continents won on**
+```
+Europe · Asia · Americas
+Australia · Middle East
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ══════════════ ICONIC MOMENTS ══════════════ -->
+<div align="center">
+
+## 🔥 ICONIC RACE VICTORIES
 
 ```
-  🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡
-  🧡                                               🧡
-  🧡    DE ORANJE BRIGADE — 100,000 STRONG         🧡
-  🧡    MAX VERSTAPPEN — DE BESTE TER WERELD       🧡
-  🧡           ("The Best in the World")           🧡
-  🧡                                               🧡
-  🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡🧡
+🇧🇷 Brazil 2016    — Youngest ever F1 race winner (18y 228d)
+🇦🇹 Austria 2021   — Battle with Hamilton, last-lap overtake
+🇦🇪 Abu Dhabi 2021 — Last-lap pass to take the TITLE 🏆
+🇯🇵 Japan 2022     — Dominant display, title sealed
+🇧🇪 Belgium 2023   — Won from P6, fastest lap set
+🇲🇨 Monaco 2023    — Mastery on the streets of Monaco
+🇸🇬 Singapore 2023 — Strategy masterclass on night streets
+🇦🇪 Abu Dhabi 2023 — 19th win, history made
+🇲🇽 Mexico 2024    — Ice-cool under pressure for #62
+🇺🇸 Las Vegas 2024 — FOURTH CHAMPIONSHIP SEALED 🏆🏆🏆🏆
 ```
 
 </div>
 
 ---
 
+<!-- ══════════════ RED BULL TEAM SECTION ══════════════ -->
 <div align="center">
 
-## 🏆 THE RECORD BOOKS
+## 🔴🔵 ORACLE RED BULL RACING
 
-| Record | Value | Year Set |
-|:-------|------:|:--------:|
-| 🔴 Most wins in a single season | **19** | 2023 |
-| 🔴 Most points in a single season | **575** | 2023 |
-| 🔴 Highest single-season win % | **86.4%** | 2023 |
-| 🔴 Youngest ever F1 race starter | **17y 166d** | 2015 |
-| 🔴 Youngest ever F1 race winner | **18y 228d** | 2016 |
-| 🔴 Consecutive championships | **4** | 2021–2024 |
-| 🔴 Career race wins | **63+** | Ongoing |
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Red_Bull_Racing_logo.svg/1200px-Red_Bull_Racing_logo.svg.png" width="200px" alt="Red Bull Racing Logo" />
+
+<br/>
+
+![Red Bull](https://img.shields.io/badge/Oracle_Red_Bull_Racing-Team_Partner-3671C6?style=for-the-badge&logo=redbull&logoColor=FFD700)
+![Honda RBPT](https://img.shields.io/badge/Honda_RBPT-Power_Unit-E8002D?style=for-the-badge&logoColor=white)
+![Pirelli](https://img.shields.io/badge/Pirelli-Tyre_Supplier-FFD700?style=for-the-badge&logoColor=1B1B2F)
+
+<br/>
+
+```
+🏭  Milton Keynes, United Kingdom
+🏎️  Car: RB20
+⚙️  Engine: Honda RBPT 1.6L V6 Hybrid
+🏆  Constructors Champion: 2022 · 2023
+```
 
 </div>
 
 ---
 
+<!-- ══════════════ CIRCUIT MAP ══════════════ -->
 <div align="center">
 
-## 🎮 BEYOND THE COCKPIT
+## 🌍 F1 CIRCUITS WON ON
 
-[![Sim Racing](https://img.shields.io/badge/🎮_Sim_Racing-Passionate_Competitor-9900ff?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
-[![iRacing](https://img.shields.io/badge/🏁_iRacing-Online_Endurance_Racer-0057b7?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
-[![Karting](https://img.shields.io/badge/🏎️_Karting-Where_It_All_Began-ff6b00?style=for-the-badge&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
+```
+     🇦🇺 Australia    🇧🇭 Bahrain     🇸🇦 Saudi Arabia
+     🇦🇹 Austria      🇬🇧 Britain     🇧🇪 Belgium
+     🇳🇱 Netherlands  🇮🇹 Italy       🇯🇵 Japan
+     🇲🇽 Mexico       🇺🇸 USA (x3)    🇧🇷 Brazil
+     🇦🇪 Abu Dhabi    🇲🇨 Monaco      🇸🇬 Singapore
+     🇭🇺 Hungary      🇪🇸 Spain       🇫🇷 France
+     🇦🇿 Azerbaijan   🇨🇦 Canada
+```
+
+**Won on 20+ different circuits worldwide** 🌏
+
+</div>
+
+---
+
+<!-- ══════════════ HELMET ══════════════ -->
+<div align="center">
+
+## ⛑️ THE ICONIC #33 HELMET
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Max_Verstappen_2024_Monaco_GP.jpg/800px-Max_Verstappen_2024_Monaco_GP.jpg" width="60%" alt="Max Verstappen Helmet" style="border-radius: 12px;" />
+
+</div>
+
+---
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<div align="center">
 
 <br/>
 
-> *"In the simulator I can just try things, crash, reset — and learn much faster than on a real track. It makes me a better driver."*
-> — **Max Verstappen**
+[![Twitter Follow](https://img.shields.io/badge/Follow_@Max33Verstappen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Max33Verstappen)
+[![Instagram](https://img.shields.io/badge/maxverstappen1-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maxverstappen1)
+[![Red Bull Racing](https://img.shields.io/badge/redbullracing-3671C6?style=for-the-badge&logo=redbull&logoColor=FFD700)](https://www.redbullracing.com)
 
 <br/>
 
-<!-- FOOTER STRIPE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=3" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=ffd700&height=3" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=cc0000&height=6" />
+```
+ ██████╗ ██████╗ ██████╗  ██╗   ██╗██╗     ██╗        ███████╗ █████╗  ███████╗████████╗███████╗██████╗ ██╗
+ ██╔══██╗██╔══██╗╚════██╗ ██║   ██║██║     ██║        ██╔════╝██╔══██╗ ██╔════╝╚══██╔══╝██╔════╝██╔══██╗██║
+ ██████╔╝██████╔╝ █████╔╝ ██║   ██║██║     ██║        █████╗  ███████║ ███████╗   ██║   █████╗  ██████╔╝██║
+ ██╔══██╗██╔══██╗ ╚═══██╗ ╚██╗ ██╔╝██║     ██║        ██╔══╝  ██╔══██║ ╚════██║   ██║   ██╔══╝  ██╔══██╗╚═╝
+ ██║  ██║██████╔╝ █████╔╝  ╚████╔╝ ███████╗███████╗   ██║     ██║  ██║ ███████║   ██║   ███████╗██║  ██║██╗
+ ╚═╝  ╚═╝╚═════╝  ╚════╝    ╚═══╝  ╚══════╝╚══════╝   ╚═╝     ╚═╝  ╚═╝ ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝
+```
 
-<!-- ANIMATED FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1801,30:cc0000,70:7a0000,100:000000&height=130&section=footer&text=CHECKERED%20FLAG%20🏁&fontSize=28&fontColor=ffd700&fontAlignY=65&animation=twinkling" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Peeky-Stroll&color=ff1801&style=flat-square&label=👀+Pit+Lane+Visits)
-[![GitHub followers](https://img.shields.io/github/followers/Peeky-Stroll?label=🏁+Followers&style=flat-square&color=cc0000&labelColor=0a0a0a)](https://github.com/Peeky-Stroll)
-![](https://img.shields.io/badge/Red%20Bull%20Racing-%231-cc0000?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/Max%20Verstappen-4×%20World%20Champion-ffd700?style=flat-square&labelColor=0a0a0a)
+<img src="https://komarev.com/ghpvc/?username=Peeky-Stroll&style=for-the-badge&color=E8002D&label=PROFILE+VIEWS" />
 
 <br/>
 
-**⚡ Red Bull gives you wings · Built with full throttle 🔴🐂 ⚡**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,3671C6,1B1B2F&height=120&section=footer&animation=fadeIn" />
 
 </div>
