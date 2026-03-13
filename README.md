@@ -6,8 +6,7 @@
 <div align="center">
 
 <!-- ═══════════════════════ HERO HEADER ═══════════════════════ -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MAX%20VERSTAPPEN&fontSize=72&fontAlignY=40&fontColor=ffffff&desc=Oracle%20Red%20Bull%20Racing%20%7C%20%231%20%7C%204%C3%97%20Formula%201%20World%20Champion&descAlignY=62&descColor=FFF200&descSize=20&animation=fadeIn&stroke=E8002D&strokeWidth=2)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=MAX%20VERSTAPPEN&fontSize=72&fontAlignY=40&fontColor=ffffff&desc=Oracle%20Red%20Bull%20Racing%20%7C%20%231%20%7C%204%C3%97%20Formula%201%20World%20Champion&descAlignY=62&descColor=FFF200&descSize=20&animation=fadeIn&stroke=E8002D&strokeWidth=2)
 <!-- LIVE BADGES -->
 ![4x WDC](https://img.shields.io/badge/🏆-4×_WORLD_CHAMPION-FFD700?style=for-the-badge&labelColor=E8002D&logoColor=white)
 ![Driver](https://img.shields.io/badge/DRIVER_№-1-E8002D?style=for-the-badge&labelColor=1E41FF)
